@@ -1,0 +1,1754 @@
+[
+  {
+    "name": "early_high_rising",
+    "series": [
+      {
+        "date": "2026-06-02",
+        "price": 693.6
+      },
+      {
+        "date": "2026-06-03",
+        "price": 713.99
+      },
+      {
+        "date": "2026-06-04",
+        "price": 696.75
+      },
+      {
+        "date": "2026-06-05",
+        "price": 695.72
+      },
+      {
+        "date": "2026-06-06",
+        "price": 681.55
+      },
+      {
+        "date": "2026-06-07",
+        "price": 700.67
+      },
+      {
+        "date": "2026-06-08",
+        "price": 735.0
+      },
+      {
+        "date": "2026-06-09",
+        "price": 719.0
+      },
+      {
+        "date": "2026-06-10",
+        "price": 735.52
+      },
+      {
+        "date": "2026-06-11",
+        "price": 717.02
+      },
+      {
+        "date": "2026-06-12",
+        "price": 721.87
+      },
+      {
+        "date": "2026-06-13",
+        "price": 717.83
+      },
+      {
+        "date": "2026-06-14",
+        "price": 672.75
+      },
+      {
+        "date": "2026-06-15",
+        "price": 736.98
+      },
+      {
+        "date": "2026-06-16",
+        "price": 729.46
+      },
+      {
+        "date": "2026-06-17",
+        "price": 730.47
+      },
+      {
+        "date": "2026-06-18",
+        "price": 676.92
+      },
+      {
+        "date": "2026-06-19",
+        "price": 676.8
+      },
+      {
+        "date": "2026-06-20",
+        "price": 699.36
+      },
+      {
+        "date": "2026-06-21",
+        "price": 711.1
+      },
+      {
+        "date": "2026-06-22",
+        "price": 731.64
+      },
+      {
+        "date": "2026-06-23",
+        "price": 724.05
+      },
+      {
+        "date": "2026-06-24",
+        "price": 739.42
+      },
+      {
+        "date": "2026-06-25",
+        "price": 711.54
+      },
+      {
+        "date": "2026-06-26",
+        "price": 736.52
+      },
+      {
+        "date": "2026-06-27",
+        "price": 739.85
+      },
+      {
+        "date": "2026-06-28",
+        "price": 714.67
+      },
+      {
+        "date": "2026-06-29",
+        "price": 775.34
+      },
+      {
+        "date": "2026-06-30",
+        "price": 747.52
+      },
+      {
+        "date": "2026-07-01",
+        "price": 764.73
+      },
+      {
+        "date": "2026-07-02",
+        "price": 720.49
+      },
+      {
+        "date": "2026-07-03",
+        "price": 718.71
+      },
+      {
+        "date": "2026-07-04",
+        "price": 729.8
+      },
+      {
+        "date": "2026-07-05",
+        "price": 736.94
+      },
+      {
+        "date": "2026-07-06",
+        "price": 756.6
+      },
+      {
+        "date": "2026-07-07",
+        "price": 748.21
+      },
+      {
+        "date": "2026-07-08",
+        "price": 732.02
+      },
+      {
+        "date": "2026-07-09",
+        "price": 720.48
+      },
+      {
+        "date": "2026-07-10",
+        "price": 732.59
+      },
+      {
+        "date": "2026-07-11",
+        "price": 777.32
+      },
+      {
+        "date": "2026-07-12",
+        "price": 727.8
+      },
+      {
+        "date": "2026-07-13",
+        "price": 755.32
+      },
+      {
+        "date": "2026-07-14",
+        "price": 761.06
+      },
+      {
+        "date": "2026-07-15",
+        "price": 714.36
+      },
+      {
+        "date": "2026-07-16",
+        "price": 754.01
+      },
+      {
+        "date": "2026-07-17",
+        "price": 786.66
+      },
+      {
+        "date": "2026-07-18",
+        "price": 704.84
+      },
+      {
+        "date": "2026-07-19",
+        "price": 748.36
+      },
+      {
+        "date": "2026-07-20",
+        "price": 754.95
+      },
+      {
+        "date": "2026-07-21",
+        "price": 738.37
+      },
+      {
+        "date": "2026-07-22",
+        "price": 772.43
+      },
+      {
+        "date": "2026-07-23",
+        "price": 759.64
+      },
+      {
+        "date": "2026-07-24",
+        "price": 725.78
+      },
+      {
+        "date": "2026-07-25",
+        "price": 784.3
+      },
+      {
+        "date": "2026-07-26",
+        "price": 781.53
+      },
+      {
+        "date": "2026-07-27",
+        "price": 789.65
+      },
+      {
+        "date": "2026-07-28",
+        "price": 803.21
+      },
+      {
+        "date": "2026-07-29",
+        "price": 777.46
+      },
+      {
+        "date": "2026-07-30",
+        "price": 772.58
+      },
+      {
+        "date": "2026-07-31",
+        "price": 738.32
+      }
+    ],
+    "priceLevel": "high",
+    "typicalLow": 520,
+    "typicalHigh": 980,
+    "departureDate": "2027-03-13",
+    "asOf": "2026-07-31",
+    "expected": {
+      "action": "WAIT",
+      "score": -13.3,
+      "confidence": "high",
+      "daysToDeparture": 225,
+      "targetPrice": 520.0,
+      "nComponents": 6,
+      "componentNames": [
+        "deadline_pressure",
+        "google_price_level",
+        "history_percentile",
+        "momentum_30d",
+        "momentum_7d",
+        "typical_range_position"
+      ],
+      "summary": {
+        "nDays": 60,
+        "current": 738.32,
+        "minimum": 672.75,
+        "maximum": 803.21,
+        "mean": 734.52,
+        "pctRank": 0.38333333333333336,
+        "slope14d": 3.45,
+        "week": {
+          "currentAvg": 778.15,
+          "previousAvg": 743.48,
+          "deltaPct": 4.663205466186039,
+          "direction": "rising"
+        },
+        "month": {
+          "currentAvg": 750.79,
+          "previousAvg": 718.25,
+          "deltaPct": 4.530455969369991,
+          "direction": "rising"
+        }
+      }
+    }
+  },
+  {
+    "name": "prime_window_record_low",
+    "series": [
+      {
+        "date": "2026-06-17",
+        "price": 894.88
+      },
+      {
+        "date": "2026-06-18",
+        "price": 907.23
+      },
+      {
+        "date": "2026-06-19",
+        "price": 889.48
+      },
+      {
+        "date": "2026-06-20",
+        "price": 884.7
+      },
+      {
+        "date": "2026-06-21",
+        "price": 869.4
+      },
+      {
+        "date": "2026-06-22",
+        "price": 880.73
+      },
+      {
+        "date": "2026-06-23",
+        "price": 904.24
+      },
+      {
+        "date": "2026-06-24",
+        "price": 887.48
+      },
+      {
+        "date": "2026-06-25",
+        "price": 896.74
+      },
+      {
+        "date": "2026-06-26",
+        "price": 877.98
+      },
+      {
+        "date": "2026-06-27",
+        "price": 877.9
+      },
+      {
+        "date": "2026-06-28",
+        "price": 870.71
+      },
+      {
+        "date": "2026-06-29",
+        "price": 830.68
+      },
+      {
+        "date": "2026-06-30",
+        "price": 878.11
+      },
+      {
+        "date": "2026-07-01",
+        "price": 868.13
+      },
+      {
+        "date": "2026-07-02",
+        "price": 864.98
+      },
+      {
+        "date": "2026-07-03",
+        "price": 818.17
+      },
+      {
+        "date": "2026-07-04",
+        "price": 814.12
+      },
+      {
+        "date": "2026-07-05",
+        "price": 828.21
+      },
+      {
+        "date": "2026-07-06",
+        "price": 833.64
+      },
+      {
+        "date": "2026-07-07",
+        "price": 846.11
+      },
+      {
+        "date": "2026-07-08",
+        "price": 836.08
+      },
+      {
+        "date": "2026-07-09",
+        "price": 844.42
+      },
+      {
+        "date": "2026-07-10",
+        "price": 818.16
+      },
+      {
+        "date": "2026-07-11",
+        "price": 834.17
+      },
+      {
+        "date": "2026-07-12",
+        "price": 832.88
+      },
+      {
+        "date": "2026-07-13",
+        "price": 808.78
+      },
+      {
+        "date": "2026-07-14",
+        "price": 853.35
+      },
+      {
+        "date": "2026-07-15",
+        "price": 827.13
+      },
+      {
+        "date": "2026-07-16",
+        "price": 836.94
+      },
+      {
+        "date": "2026-07-17",
+        "price": 797.59
+      },
+      {
+        "date": "2026-07-18",
+        "price": 792.21
+      },
+      {
+        "date": "2026-07-19",
+        "price": 797.12
+      },
+      {
+        "date": "2026-07-20",
+        "price": 798.87
+      },
+      {
+        "date": "2026-07-21",
+        "price": 810.64
+      },
+      {
+        "date": "2026-07-22",
+        "price": 799.97
+      },
+      {
+        "date": "2026-07-23",
+        "price": 783.05
+      },
+      {
+        "date": "2026-07-24",
+        "price": 769.86
+      },
+      {
+        "date": "2026-07-25",
+        "price": 775.59
+      },
+      {
+        "date": "2026-07-26",
+        "price": 807.42
+      },
+      {
+        "date": "2026-07-27",
+        "price": 763.84
+      },
+      {
+        "date": "2026-07-28",
+        "price": 781.9
+      },
+      {
+        "date": "2026-07-29",
+        "price": 782.53
+      },
+      {
+        "date": "2026-07-30",
+        "price": 741.21
+      },
+      {
+        "date": "2026-07-31",
+        "price": 768.97
+      }
+    ],
+    "priceLevel": "low",
+    "typicalLow": 600,
+    "typicalHigh": 1100,
+    "departureDate": "2026-10-14",
+    "asOf": "2026-07-31",
+    "expected": {
+      "action": "BUY SOON",
+      "score": 35.4,
+      "confidence": "high",
+      "daysToDeparture": 75,
+      "targetPrice": 600.0,
+      "nComponents": 6,
+      "componentNames": [
+        "deadline_pressure",
+        "google_price_level",
+        "history_percentile",
+        "momentum_30d",
+        "momentum_7d",
+        "typical_range_position"
+      ],
+      "summary": {
+        "nDays": 45,
+        "current": 768.97,
+        "minimum": 741.21,
+        "maximum": 907.23,
+        "mean": 833.03,
+        "pctRank": 0.9333333333333333,
+        "slope14d": -3.0,
+        "week": {
+          "currentAvg": 774.49,
+          "previousAvg": 793.1,
+          "deltaPct": -2.346488462993319,
+          "direction": "falling"
+        },
+        "month": {
+          "currentAvg": 808.93,
+          "previousAvg": 881.23,
+          "deltaPct": -8.204441519240161,
+          "direction": "falling"
+        }
+      }
+    }
+  },
+  {
+    "name": "prime_window_flat_typical",
+    "series": [
+      {
+        "date": "2026-06-22",
+        "price": 775.39
+      },
+      {
+        "date": "2026-06-23",
+        "price": 789.26
+      },
+      {
+        "date": "2026-06-24",
+        "price": 776.03
+      },
+      {
+        "date": "2026-06-25",
+        "price": 774.48
+      },
+      {
+        "date": "2026-06-26",
+        "price": 763.46
+      },
+      {
+        "date": "2026-06-27",
+        "price": 776.41
+      },
+      {
+        "date": "2026-06-28",
+        "price": 800.31
+      },
+      {
+        "date": "2026-06-29",
+        "price": 787.98
+      },
+      {
+        "date": "2026-06-30",
+        "price": 799.06
+      },
+      {
+        "date": "2026-07-01",
+        "price": 784.93
+      },
+      {
+        "date": "2026-07-02",
+        "price": 787.61
+      },
+      {
+        "date": "2026-07-03",
+        "price": 783.89
+      },
+      {
+        "date": "2026-07-04",
+        "price": 750.61
+      },
+      {
+        "date": "2026-07-05",
+        "price": 796.04
+      },
+      {
+        "date": "2026-07-06",
+        "price": 789.81
+      },
+      {
+        "date": "2026-07-07",
+        "price": 789.73
+      },
+      {
+        "date": "2026-07-08",
+        "price": 750.36
+      },
+      {
+        "date": "2026-07-09",
+        "price": 749.46
+      },
+      {
+        "date": "2026-07-10",
+        "price": 764.89
+      },
+      {
+        "date": "2026-07-11",
+        "price": 772.52
+      },
+      {
+        "date": "2026-07-12",
+        "price": 786.5
+      },
+      {
+        "date": "2026-07-13",
+        "price": 780.22
+      },
+      {
+        "date": "2026-07-14",
+        "price": 790.48
+      },
+      {
+        "date": "2026-07-15",
+        "price": 769.59
+      },
+      {
+        "date": "2026-07-16",
+        "price": 786.76
+      },
+      {
+        "date": "2026-07-17",
+        "price": 788.34
+      },
+      {
+        "date": "2026-07-18",
+        "price": 769.4
+      },
+      {
+        "date": "2026-07-19",
+        "price": 812.27
+      },
+      {
+        "date": "2026-07-20",
+        "price": 791.42
+      },
+      {
+        "date": "2026-07-21",
+        "price": 803.0
+      },
+      {
+        "date": "2026-07-22",
+        "price": 770.33
+      },
+      {
+        "date": "2026-07-23",
+        "price": 768.24
+      },
+      {
+        "date": "2026-07-24",
+        "price": 775.41
+      },
+      {
+        "date": "2026-07-25",
+        "price": 779.73
+      },
+      {
+        "date": "2026-07-26",
+        "price": 793.08
+      },
+      {
+        "date": "2026-07-27",
+        "price": 786.22
+      },
+      {
+        "date": "2026-07-28",
+        "price": 773.75
+      },
+      {
+        "date": "2026-07-29",
+        "price": 764.63
+      },
+      {
+        "date": "2026-07-30",
+        "price": 772.53
+      },
+      {
+        "date": "2026-07-31",
+        "price": 803.93
+      }
+    ],
+    "priceLevel": "typical",
+    "typicalLow": 640,
+    "typicalHigh": 1020,
+    "departureDate": "2026-10-19",
+    "asOf": "2026-07-31",
+    "expected": {
+      "action": "WAIT",
+      "score": -13.0,
+      "confidence": "high",
+      "daysToDeparture": 80,
+      "targetPrice": 640.0,
+      "nComponents": 6,
+      "componentNames": [
+        "deadline_pressure",
+        "google_price_level",
+        "history_percentile",
+        "momentum_30d",
+        "momentum_7d",
+        "typical_range_position"
+      ],
+      "summary": {
+        "nDays": 40,
+        "current": 803.93,
+        "minimum": 749.46,
+        "maximum": 812.27,
+        "mean": 780.7,
+        "pctRank": 0.025,
+        "slope14d": -0.61,
+        "week": {
+          "currentAvg": 781.98,
+          "previousAvg": 784.3,
+          "deltaPct": -0.29580517659058225,
+          "direction": "flat"
+        },
+        "month": {
+          "currentAvg": 780.02,
+          "previousAvg": 782.73,
+          "deltaPct": -0.3462241130402612,
+          "direction": "flat"
+        }
+      }
+    }
+  },
+  {
+    "name": "close_in_rising_fast",
+    "series": [
+      {
+        "date": "2026-06-12",
+        "price": 594.37
+      },
+      {
+        "date": "2026-06-13",
+        "price": 615.25
+      },
+      {
+        "date": "2026-06-14",
+        "price": 603.03
+      },
+      {
+        "date": "2026-06-15",
+        "price": 605.07
+      },
+      {
+        "date": "2026-06-16",
+        "price": 595.54
+      },
+      {
+        "date": "2026-06-17",
+        "price": 615.31
+      },
+      {
+        "date": "2026-06-18",
+        "price": 648.46
+      },
+      {
+        "date": "2026-06-19",
+        "price": 637.33
+      },
+      {
+        "date": "2026-06-20",
+        "price": 654.81
+      },
+      {
+        "date": "2026-06-21",
+        "price": 641.48
+      },
+      {
+        "date": "2026-06-22",
+        "price": 648.68
+      },
+      {
+        "date": "2026-06-23",
+        "price": 648.08
+      },
+      {
+        "date": "2026-06-24",
+        "price": 611.35
+      },
+      {
+        "date": "2026-06-25",
+        "price": 670.82
+      },
+      {
+        "date": "2026-06-26",
+        "price": 667.14
+      },
+      {
+        "date": "2026-06-27",
+        "price": 670.97
+      },
+      {
+        "date": "2026-06-28",
+        "price": 626.79
+      },
+      {
+        "date": "2026-06-29",
+        "price": 629.63
+      },
+      {
+        "date": "2026-06-30",
+        "price": 652.43
+      },
+      {
+        "date": "2026-07-01",
+        "price": 665.7
+      },
+      {
+        "date": "2026-07-02",
+        "price": 686.72
+      },
+      {
+        "date": "2026-07-03",
+        "price": 682.99
+      },
+      {
+        "date": "2026-07-04",
+        "price": 699.46
+      },
+      {
+        "date": "2026-07-05",
+        "price": 677.87
+      },
+      {
+        "date": "2026-07-06",
+        "price": 702.79
+      },
+      {
+        "date": "2026-07-07",
+        "price": 708.67
+      },
+      {
+        "date": "2026-07-08",
+        "price": 689.45
+      },
+      {
+        "date": "2026-07-09",
+        "price": 745.79
+      },
+      {
+        "date": "2026-07-10",
+        "price": 724.25
+      },
+      {
+        "date": "2026-07-11",
+        "price": 742.33
+      },
+      {
+        "date": "2026-07-12",
+        "price": 706.35
+      },
+      {
+        "date": "2026-07-13",
+        "price": 707.73
+      },
+      {
+        "date": "2026-07-14",
+        "price": 720.43
+      },
+      {
+        "date": "2026-07-15",
+        "price": 729.66
+      },
+      {
+        "date": "2026-07-16",
+        "price": 749.91
+      },
+      {
+        "date": "2026-07-17",
+        "price": 745.47
+      },
+      {
+        "date": "2026-07-18",
+        "price": 734.16
+      },
+      {
+        "date": "2026-07-19",
+        "price": 726.95
+      },
+      {
+        "date": "2026-07-20",
+        "price": 740.55
+      },
+      {
+        "date": "2026-07-21",
+        "price": 782.86
+      },
+      {
+        "date": "2026-07-22",
+        "price": 742.23
+      },
+      {
+        "date": "2026-07-23",
+        "price": 769.38
+      },
+      {
+        "date": "2026-07-24",
+        "price": 777.38
+      },
+      {
+        "date": "2026-07-25",
+        "price": 739.23
+      },
+      {
+        "date": "2026-07-26",
+        "price": 777.07
+      },
+      {
+        "date": "2026-07-27",
+        "price": 808.74
+      },
+      {
+        "date": "2026-07-28",
+        "price": 739.68
+      },
+      {
+        "date": "2026-07-29",
+        "price": 780.92
+      },
+      {
+        "date": "2026-07-30",
+        "price": 789.66
+      },
+      {
+        "date": "2026-07-31",
+        "price": 778.02
+      }
+    ],
+    "priceLevel": "high",
+    "typicalLow": 500,
+    "typicalHigh": 900,
+    "departureDate": "2026-08-18",
+    "asOf": "2026-07-31",
+    "expected": {
+      "action": "BUY SOON",
+      "score": 18.7,
+      "confidence": "high",
+      "daysToDeparture": 18,
+      "targetPrice": 500.0,
+      "nComponents": 6,
+      "componentNames": [
+        "deadline_pressure",
+        "google_price_level",
+        "history_percentile",
+        "momentum_30d",
+        "momentum_7d",
+        "typical_range_position"
+      ],
+      "summary": {
+        "nDays": 50,
+        "current": 778.02,
+        "minimum": 594.37,
+        "maximum": 808.74,
+        "mean": 696.18,
+        "pctRank": 0.08,
+        "slope14d": 3.6,
+        "week": {
+          "currentAvg": 773.33,
+          "previousAvg": 753.36,
+          "deltaPct": 2.6507911224381475,
+          "direction": "rising"
+        },
+        "month": {
+          "currentAvg": 736.89,
+          "previousAvg": 635.11,
+          "deltaPct": 16.025570373636057,
+          "direction": "rising"
+        }
+      }
+    }
+  },
+  {
+    "name": "cold_start_two_days",
+    "series": [
+      {
+        "date": "2026-07-30",
+        "price": 848.72
+      },
+      {
+        "date": "2026-07-31",
+        "price": 852.56
+      }
+    ],
+    "priceLevel": "typical",
+    "typicalLow": 600,
+    "typicalHigh": 1100,
+    "departureDate": "2026-12-28",
+    "asOf": "2026-07-31",
+    "expected": {
+      "action": "HOLD",
+      "score": -8.5,
+      "confidence": "low",
+      "daysToDeparture": 150,
+      "targetPrice": 600.0,
+      "nComponents": 3,
+      "componentNames": [
+        "deadline_pressure",
+        "google_price_level",
+        "typical_range_position"
+      ],
+      "summary": {
+        "nDays": 2,
+        "current": 852.56,
+        "minimum": 848.72,
+        "maximum": 852.56,
+        "mean": 850.64,
+        "pctRank": 0.0,
+        "slope14d": null,
+        "week": {
+          "currentAvg": 850.64,
+          "previousAvg": null,
+          "deltaPct": null,
+          "direction": "unknown"
+        },
+        "month": {
+          "currentAvg": 850.64,
+          "previousAvg": null,
+          "deltaPct": null,
+          "direction": "unknown"
+        }
+      }
+    }
+  },
+  {
+    "name": "no_price_insights",
+    "series": [
+      {
+        "date": "2026-07-02",
+        "price": 814.88
+      },
+      {
+        "date": "2026-07-03",
+        "price": 829.23
+      },
+      {
+        "date": "2026-07-04",
+        "price": 813.48
+      },
+      {
+        "date": "2026-07-05",
+        "price": 810.7
+      },
+      {
+        "date": "2026-07-06",
+        "price": 797.4
+      },
+      {
+        "date": "2026-07-07",
+        "price": 810.73
+      },
+      {
+        "date": "2026-07-08",
+        "price": 836.24
+      },
+      {
+        "date": "2026-07-09",
+        "price": 821.48
+      },
+      {
+        "date": "2026-07-10",
+        "price": 832.74
+      },
+      {
+        "date": "2026-07-11",
+        "price": 815.98
+      },
+      {
+        "date": "2026-07-12",
+        "price": 817.9
+      },
+      {
+        "date": "2026-07-13",
+        "price": 812.71
+      },
+      {
+        "date": "2026-07-14",
+        "price": 774.68
+      },
+      {
+        "date": "2026-07-15",
+        "price": 824.11
+      },
+      {
+        "date": "2026-07-16",
+        "price": 816.13
+      },
+      {
+        "date": "2026-07-17",
+        "price": 814.98
+      },
+      {
+        "date": "2026-07-18",
+        "price": 770.17
+      },
+      {
+        "date": "2026-07-19",
+        "price": 768.12
+      },
+      {
+        "date": "2026-07-20",
+        "price": 784.21
+      },
+      {
+        "date": "2026-07-21",
+        "price": 791.64
+      },
+      {
+        "date": "2026-07-22",
+        "price": 806.11
+      },
+      {
+        "date": "2026-07-23",
+        "price": 798.08
+      },
+      {
+        "date": "2026-07-24",
+        "price": 808.42
+      },
+      {
+        "date": "2026-07-25",
+        "price": 784.16
+      },
+      {
+        "date": "2026-07-26",
+        "price": 802.17
+      },
+      {
+        "date": "2026-07-27",
+        "price": 802.88
+      },
+      {
+        "date": "2026-07-28",
+        "price": 780.78
+      },
+      {
+        "date": "2026-07-29",
+        "price": 827.35
+      },
+      {
+        "date": "2026-07-30",
+        "price": 803.13
+      },
+      {
+        "date": "2026-07-31",
+        "price": 814.94
+      }
+    ],
+    "priceLevel": null,
+    "typicalLow": null,
+    "typicalHigh": null,
+    "departureDate": "2026-11-03",
+    "asOf": "2026-07-31",
+    "expected": {
+      "action": "HOLD",
+      "score": -3.7,
+      "confidence": "medium",
+      "daysToDeparture": 95,
+      "targetPrice": 777.63,
+      "nComponents": 3,
+      "componentNames": [
+        "deadline_pressure",
+        "history_percentile",
+        "momentum_7d"
+      ],
+      "summary": {
+        "nDays": 30,
+        "current": 814.94,
+        "minimum": 768.12,
+        "maximum": 836.24,
+        "mean": 806.18,
+        "pctRank": 0.3333333333333333,
+        "slope14d": 2.75,
+        "week": {
+          "currentAvg": 802.2,
+          "previousAvg": 789.54,
+          "deltaPct": 1.6034653089140618,
+          "direction": "rising"
+        },
+        "month": {
+          "currentAvg": 806.18,
+          "previousAvg": null,
+          "deltaPct": null,
+          "direction": "unknown"
+        }
+      }
+    }
+  },
+  {
+    "name": "out_of_runway_8_days",
+    "series": [
+      {
+        "date": "2026-06-22",
+        "price": 621.64
+      },
+      {
+        "date": "2026-06-23",
+        "price": 647.66
+      },
+      {
+        "date": "2026-06-24",
+        "price": 658.92
+      },
+      {
+        "date": "2026-06-25",
+        "price": 638.3
+      },
+      {
+        "date": "2026-06-26",
+        "price": 628.07
+      },
+      {
+        "date": "2026-06-27",
+        "price": 649.02
+      },
+      {
+        "date": "2026-06-28",
+        "price": 659.17
+      },
+      {
+        "date": "2026-06-29",
+        "price": 670.47
+      },
+      {
+        "date": "2026-06-30",
+        "price": 637.76
+      },
+      {
+        "date": "2026-07-01",
+        "price": 638.61
+      },
+      {
+        "date": "2026-07-02",
+        "price": 670.59
+      },
+      {
+        "date": "2026-07-03",
+        "price": 669.11
+      },
+      {
+        "date": "2026-07-04",
+        "price": 687.01
+      },
+      {
+        "date": "2026-07-05",
+        "price": 680.74
+      },
+      {
+        "date": "2026-07-06",
+        "price": 666.47
+      },
+      {
+        "date": "2026-07-07",
+        "price": 665.89
+      },
+      {
+        "date": "2026-07-08",
+        "price": 710.56
+      },
+      {
+        "date": "2026-07-09",
+        "price": 669.67
+      },
+      {
+        "date": "2026-07-10",
+        "price": 664.23
+      },
+      {
+        "date": "2026-07-11",
+        "price": 660.92
+      },
+      {
+        "date": "2026-07-12",
+        "price": 681.43
+      },
+      {
+        "date": "2026-07-13",
+        "price": 684.18
+      },
+      {
+        "date": "2026-07-14",
+        "price": 678.83
+      },
+      {
+        "date": "2026-07-15",
+        "price": 685.07
+      },
+      {
+        "date": "2026-07-16",
+        "price": 692.1
+      },
+      {
+        "date": "2026-07-17",
+        "price": 700.39
+      },
+      {
+        "date": "2026-07-18",
+        "price": 708.45
+      },
+      {
+        "date": "2026-07-19",
+        "price": 697.15
+      },
+      {
+        "date": "2026-07-20",
+        "price": 669.15
+      },
+      {
+        "date": "2026-07-21",
+        "price": 708.53
+      },
+      {
+        "date": "2026-07-22",
+        "price": 678.7
+      },
+      {
+        "date": "2026-07-23",
+        "price": 699.43
+      },
+      {
+        "date": "2026-07-24",
+        "price": 681.89
+      },
+      {
+        "date": "2026-07-25",
+        "price": 706.03
+      },
+      {
+        "date": "2026-07-26",
+        "price": 696.32
+      },
+      {
+        "date": "2026-07-27",
+        "price": 713.21
+      },
+      {
+        "date": "2026-07-28",
+        "price": 761.5
+      },
+      {
+        "date": "2026-07-29",
+        "price": 713.27
+      },
+      {
+        "date": "2026-07-30",
+        "price": 728.63
+      },
+      {
+        "date": "2026-07-31",
+        "price": 698.15
+      }
+    ],
+    "priceLevel": "high",
+    "typicalLow": 500,
+    "typicalHigh": 900,
+    "departureDate": "2026-08-08",
+    "asOf": "2026-07-31",
+    "expected": {
+      "action": "BUY NOW",
+      "score": 30.3,
+      "confidence": "high",
+      "daysToDeparture": 8,
+      "targetPrice": 500.0,
+      "nComponents": 6,
+      "componentNames": [
+        "deadline_pressure",
+        "google_price_level",
+        "history_percentile",
+        "momentum_30d",
+        "momentum_7d",
+        "typical_range_position"
+      ],
+      "summary": {
+        "nDays": 40,
+        "current": 698.15,
+        "minimum": 621.64,
+        "maximum": 761.5,
+        "mean": 679.43,
+        "pctRank": 0.25,
+        "slope14d": 2.57,
+        "week": {
+          "currentAvg": 716.73,
+          "previousAvg": 691.9,
+          "deltaPct": 3.588668882786536,
+          "direction": "rising"
+        },
+        "month": {
+          "currentAvg": 690.92,
+          "previousAvg": 644.96,
+          "deltaPct": 7.1260233192756015,
+          "direction": "rising"
+        }
+      }
+    }
+  },
+  {
+    "name": "very_far_out_260_days",
+    "series": [
+      {
+        "date": "2026-06-27",
+        "price": 698.28
+      },
+      {
+        "date": "2026-06-28",
+        "price": 728.36
+      },
+      {
+        "date": "2026-06-29",
+        "price": 680.34
+      },
+      {
+        "date": "2026-06-30",
+        "price": 658.38
+      },
+      {
+        "date": "2026-07-01",
+        "price": 697.69
+      },
+      {
+        "date": "2026-07-02",
+        "price": 703.32
+      },
+      {
+        "date": "2026-07-03",
+        "price": 696.6
+      },
+      {
+        "date": "2026-07-04",
+        "price": 697.41
+      },
+      {
+        "date": "2026-07-05",
+        "price": 682.94
+      },
+      {
+        "date": "2026-07-06",
+        "price": 671.49
+      },
+      {
+        "date": "2026-07-07",
+        "price": 666.39
+      },
+      {
+        "date": "2026-07-08",
+        "price": 675.29
+      },
+      {
+        "date": "2026-07-09",
+        "price": 670.11
+      },
+      {
+        "date": "2026-07-10",
+        "price": 694.43
+      },
+      {
+        "date": "2026-07-11",
+        "price": 686.33
+      },
+      {
+        "date": "2026-07-12",
+        "price": 646.66
+      },
+      {
+        "date": "2026-07-13",
+        "price": 684.0
+      },
+      {
+        "date": "2026-07-14",
+        "price": 667.46
+      },
+      {
+        "date": "2026-07-15",
+        "price": 688.48
+      },
+      {
+        "date": "2026-07-16",
+        "price": 694.26
+      },
+      {
+        "date": "2026-07-17",
+        "price": 673.28
+      },
+      {
+        "date": "2026-07-18",
+        "price": 624.3
+      },
+      {
+        "date": "2026-07-19",
+        "price": 671.26
+      },
+      {
+        "date": "2026-07-20",
+        "price": 624.68
+      },
+      {
+        "date": "2026-07-21",
+        "price": 685.75
+      },
+      {
+        "date": "2026-07-22",
+        "price": 638.87
+      },
+      {
+        "date": "2026-07-23",
+        "price": 646.36
+      },
+      {
+        "date": "2026-07-24",
+        "price": 684.92
+      },
+      {
+        "date": "2026-07-25",
+        "price": 610.57
+      },
+      {
+        "date": "2026-07-26",
+        "price": 644.78
+      },
+      {
+        "date": "2026-07-27",
+        "price": 620.51
+      },
+      {
+        "date": "2026-07-28",
+        "price": 629.69
+      },
+      {
+        "date": "2026-07-29",
+        "price": 622.06
+      },
+      {
+        "date": "2026-07-30",
+        "price": 649.97
+      },
+      {
+        "date": "2026-07-31",
+        "price": 628.1
+      }
+    ],
+    "priceLevel": "low",
+    "typicalLow": 520,
+    "typicalHigh": 980,
+    "departureDate": "2027-04-17",
+    "asOf": "2026-07-31",
+    "expected": {
+      "action": "HOLD",
+      "score": 20.5,
+      "confidence": "high",
+      "daysToDeparture": 260,
+      "targetPrice": 520.0,
+      "nComponents": 6,
+      "componentNames": [
+        "deadline_pressure",
+        "google_price_level",
+        "history_percentile",
+        "momentum_30d",
+        "momentum_7d",
+        "typical_range_position"
+      ],
+      "summary": {
+        "nDays": 35,
+        "current": 628.1,
+        "minimum": 610.57,
+        "maximum": 728.36,
+        "mean": 666.95,
+        "pctRank": 0.8285714285714286,
+        "slope14d": -1.7,
+        "week": {
+          "currentAvg": 629.38,
+          "previousAvg": 653.73,
+          "deltaPct": -3.7247793431539047,
+          "direction": "falling"
+        },
+        "month": {
+          "currentAvg": 662.68,
+          "previousAvg": 692.61,
+          "deltaPct": -4.321335239167795,
+          "direction": "falling"
+        }
+      }
+    }
+  },
+  {
+    "name": "single_point",
+    "series": [
+      {
+        "date": "2026-07-31",
+        "price": 900.0
+      }
+    ],
+    "priceLevel": "typical",
+    "typicalLow": 600,
+    "typicalHigh": 1100,
+    "departureDate": "2026-11-28",
+    "asOf": "2026-07-31",
+    "expected": {
+      "action": "HOLD",
+      "score": -5.5,
+      "confidence": "low",
+      "daysToDeparture": 120,
+      "targetPrice": 600.0,
+      "nComponents": 3,
+      "componentNames": [
+        "deadline_pressure",
+        "google_price_level",
+        "typical_range_position"
+      ],
+      "summary": {
+        "nDays": 1,
+        "current": 900.0,
+        "minimum": 900.0,
+        "maximum": 900.0,
+        "mean": 900.0,
+        "pctRank": null,
+        "slope14d": null,
+        "week": {
+          "currentAvg": 900.0,
+          "previousAvg": null,
+          "deltaPct": null,
+          "direction": "unknown"
+        },
+        "month": {
+          "currentAvg": 900.0,
+          "previousAvg": null,
+          "deltaPct": null,
+          "direction": "unknown"
+        }
+      }
+    }
+  },
+  {
+    "name": "flat_series_no_variance",
+    "series": [
+      {
+        "date": "2026-07-12",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-13",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-14",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-15",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-16",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-17",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-18",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-19",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-20",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-21",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-22",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-23",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-24",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-25",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-26",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-27",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-28",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-29",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-30",
+        "price": 800.0
+      },
+      {
+        "date": "2026-07-31",
+        "price": 800.0
+      }
+    ],
+    "priceLevel": "typical",
+    "typicalLow": 600,
+    "typicalHigh": 1000,
+    "departureDate": "2026-11-08",
+    "asOf": "2026-07-31",
+    "expected": {
+      "action": "WAIT",
+      "score": -22.2,
+      "confidence": "medium",
+      "daysToDeparture": 100,
+      "targetPrice": 600.0,
+      "nComponents": 5,
+      "componentNames": [
+        "deadline_pressure",
+        "google_price_level",
+        "history_percentile",
+        "momentum_7d",
+        "typical_range_position"
+      ],
+      "summary": {
+        "nDays": 20,
+        "current": 800.0,
+        "minimum": 800.0,
+        "maximum": 800.0,
+        "mean": 800.0,
+        "pctRank": 0.0,
+        "slope14d": 0.0,
+        "week": {
+          "currentAvg": 800.0,
+          "previousAvg": 800.0,
+          "deltaPct": 0.0,
+          "direction": "flat"
+        },
+        "month": {
+          "currentAvg": 800.0,
+          "previousAvg": null,
+          "deltaPct": null,
+          "direction": "unknown"
+        }
+      }
+    }
+  }
+]

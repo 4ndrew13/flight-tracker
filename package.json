@@ -1,0 +1,22 @@
+{
+  "name": "flight-tracker",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily flight-price digest with a buy/wait indicator, run by GitHub Actions.",
+  "scripts": {
+    "daily": "node scripts/run.ts",
+    "dry": "node scripts/run.ts --dry",
+    "offline": "node scripts/run.ts --offline --dry",
+    "preview": "node scripts/preview-email.ts",
+    "test": "node --test test/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "typescript": "^5.9.3"
+  },
+  "engines": {
+    "node": ">=22.18"
+  }
+}

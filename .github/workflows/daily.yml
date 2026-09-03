@@ -1,0 +1,60 @@
+name: Daily flight check
+
+on:
+  schedule:
+    # 23:23 UTC ≈ 7:23pm ET (EDT) / 6:23pm ET (EST).
+    # An off-the-hour minute matters: GitHub queues scheduled runs, and the
+    # top of the hour is the most congested slot, so :00 gets delayed most.
+    - cron: "23 23 * * *"
+  workflow_dispatch:
+    inputs:
+      dry:
+        description: "Poll and save, but don't send the email"
+        type: boolean
+        default: false
+
+# Needed so the job can commit the day's prices back to the repo.
+permissions:
+  contents: write
+
+# Never let two runs push price history at the same time.
+concurrency:
+  group: daily-flight-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          # Node 24 runs .ts files directly — no build step, no npm install,
+          # because the project has zero runtime dependencies.
+          node-version: "24"
+
+      - name: Check prices and send digest
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+        run: node scripts/run.ts ${{ inputs.dry && '--dry' || '' }}
+
+      - name: Commit price history
+        # always(): if the email failed but prices were fetched, we still want
+        # the data saved — and the failed run is itself the alert.
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No price changes to commit."
+          else
+            git commit -m "prices: $(date -u +%F)"
+            git push
+          fi

@@ -1,0 +1,25 @@
+# Secrets — never commit
+.env
+.env.local
+.env*.local
+
+# Node
+node_modules/
+
+# Local artifacts
+.preview/
+
+# NOTE: data/ is intentionally NOT ignored. The price history in
+# data/prices.csv is the database — the workflow commits it every day.
+
+# Python backtester
+python/.env
+python/data/*.db
+python/data/raw/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store

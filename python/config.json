@@ -1,0 +1,52 @@
+{
+  "_comment": "Edit this file before your first run. 'origin' must be a real 3-letter airport code.",
+
+  "currency": "USD",
+  "travel_class": 1,
+  "stops": 0,
+  "passengers": {
+    "adults": 2,
+    "children": 0,
+    "infants_in_seat": 0,
+    "infants_on_lap": 0
+  },
+
+  "trips": [
+    {
+      "id": "primary",
+      "label": "Punta Cana - spring break",
+      "origin": "ORIGIN",
+      "destination": "PUJ",
+      "outbound_date": "2027-03-13",
+      "return_date": "2027-03-20",
+      "enabled": true
+    },
+    {
+      "id": "flex-early",
+      "label": "Punta Cana - depart one day earlier",
+      "origin": "ORIGIN",
+      "destination": "PUJ",
+      "outbound_date": "2027-03-12",
+      "return_date": "2027-03-20",
+      "enabled": false
+    }
+  ],
+
+  "signal": {
+    "_comment": "Tuning knobs for the buy indicator. Defaults are sane; change only if you want to.",
+    "weights": {
+      "google_price_level": 25,
+      "typical_range_position": 15,
+      "history_percentile": 20,
+      "momentum_7d": 15,
+      "momentum_30d": 10,
+      "deadline_pressure": 15
+    },
+    "thresholds": {
+      "buy_now": 45,
+      "buy_soon": 25,
+      "hold": -10,
+      "wait": -35
+    }
+  }
+}
