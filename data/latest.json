@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T01:17:00.316Z",
+  "updatedAt": "2026-09-13T01:12:53.623Z",
   "routes": {
     "BOS-SJU-2027-01-04-2027-01-11": {
       "origin": "BOS",
@@ -7,11 +7,11 @@
       "outboundDate": "2027-01-04",
       "returnDate": "2027-01-11",
       "currency": "USD",
-      "capturedAt": "2026-09-12T01:16:58.462Z",
+      "capturedAt": "2026-09-13T01:12:47.346Z",
       "lowestPrice": 894,
-      "avgPrice": 1245.33,
+      "avgPrice": 1190,
       "medianPrice": 1205,
-      "nOffers": 9,
+      "nOffers": 8,
       "priceLevel": "high",
       "typicalLow": 285,
       "typicalHigh": 465,
@@ -26,16 +26,7 @@
           "arrivalTime": "2027-01-04 17:39"
         },
         {
-          "price": 1108,
-          "airline": "Southwest",
-          "flightNumbers": "WN 4673, WN 1004, WN 1192",
-          "stops": 2,
-          "totalDuration": 830,
-          "departureTime": "2027-01-04 08:40",
-          "arrivalTime": "2027-01-04 23:30"
-        },
-        {
-          "price": 1116,
+          "price": 1006,
           "airline": "United",
           "flightNumbers": "UA 1833, UA 2143",
           "stops": 1,
@@ -44,13 +35,22 @@
           "arrivalTime": "2027-01-04 13:11"
         },
         {
-          "price": 1180,
-          "airline": "United",
-          "flightNumbers": "UA 570, UA 1556",
-          "stops": 1,
-          "totalDuration": 385,
-          "departureTime": "2027-01-04 07:15",
-          "arrivalTime": "2027-01-04 14:40"
+          "price": 1138,
+          "airline": "Southwest",
+          "flightNumbers": "WN 787, WN 565, WN 1192",
+          "stops": 2,
+          "totalDuration": 725,
+          "departureTime": "2027-01-04 10:25",
+          "arrivalTime": "2027-01-04 23:30"
+        },
+        {
+          "price": 1205,
+          "airline": "Delta",
+          "flightNumbers": "DL 1780",
+          "stops": 0,
+          "totalDuration": 245,
+          "departureTime": "2027-01-04 08:05",
+          "arrivalTime": "2027-01-04 13:10"
         },
         {
           "price": 1205,
@@ -69,24 +69,15 @@
       "outboundDate": "2027-01-04",
       "returnDate": "2027-01-11",
       "currency": "USD",
-      "capturedAt": "2026-09-12T01:16:58.326Z",
-      "lowestPrice": 798,
-      "avgPrice": 1214.13,
-      "medianPrice": 1230,
-      "nOffers": 8,
+      "capturedAt": "2026-09-13T01:12:47.288Z",
+      "lowestPrice": 1074,
+      "avgPrice": 1210.9,
+      "medianPrice": 1163,
+      "nOffers": 10,
       "priceLevel": "high",
       "typicalLow": 460,
       "typicalHigh": 730,
       "offers": [
-        {
-          "price": 798,
-          "airline": "American",
-          "flightNumbers": "AA 5653, AA 2754, AA 3059",
-          "stops": 2,
-          "totalDuration": 1001,
-          "departureTime": "2027-01-04 18:00",
-          "arrivalTime": "2027-01-05 11:41"
-        },
         {
           "price": 1074,
           "airline": "Southwest",
@@ -95,6 +86,15 @@
           "totalDuration": 715,
           "departureTime": "2027-01-04 10:35",
           "arrivalTime": "2027-01-04 23:30"
+        },
+        {
+          "price": 1120,
+          "airline": "American",
+          "flightNumbers": "AA 5653, AA 2754, AA 3059",
+          "stops": 2,
+          "totalDuration": 1001,
+          "departureTime": "2027-01-04 18:00",
+          "arrivalTime": "2027-01-05 11:41"
         },
         {
           "price": 1124,
@@ -106,22 +106,22 @@
           "arrivalTime": "2027-01-05 01:05"
         },
         {
-          "price": 1184,
-          "airline": "Southwest",
-          "flightNumbers": "WN 3581, WN 1962",
+          "price": 1142,
+          "airline": "American",
+          "flightNumbers": "AA 6104, AA 435",
           "stops": 1,
-          "totalDuration": 415,
-          "departureTime": "2027-01-04 05:35",
-          "arrivalTime": "2027-01-04 13:30"
+          "totalDuration": 722,
+          "departureTime": "2027-01-04 10:05",
+          "arrivalTime": "2027-01-04 23:07"
         },
         {
-          "price": 1276,
-          "airline": "Southwest",
-          "flightNumbers": "WN 1122, WN 2866",
+          "price": 1142,
+          "airline": "American",
+          "flightNumbers": "AA 2715, AA 3059",
           "stops": 1,
-          "totalDuration": 415,
-          "departureTime": "2027-01-04 12:50",
-          "arrivalTime": "2027-01-04 20:45"
+          "totalDuration": 935,
+          "departureTime": "2027-01-04 19:06",
+          "arrivalTime": "2027-01-05 11:41"
         }
       ]
     },
@@ -131,35 +131,26 @@
       "outboundDate": "2027-01-04",
       "returnDate": "2027-01-11",
       "currency": "USD",
-      "capturedAt": "2026-09-12T01:16:58.601Z",
-      "lowestPrice": 1124,
-      "avgPrice": 1241.43,
-      "medianPrice": 1254,
-      "nOffers": 14,
+      "capturedAt": "2026-09-13T01:12:53.609Z",
+      "lowestPrice": 909,
+      "avgPrice": 1121.46,
+      "medianPrice": 1226,
+      "nOffers": 13,
       "priceLevel": "high",
       "typicalLow": 285,
       "typicalHigh": 485,
       "offers": [
         {
-          "price": 1124,
-          "airline": "American",
-          "flightNumbers": "AA 484, AA 3250",
-          "stops": 1,
-          "totalDuration": 831,
-          "departureTime": "2027-01-04 18:45",
-          "arrivalTime": "2027-01-05 09:36"
+          "price": 909,
+          "airline": "JetBlue",
+          "flightNumbers": "B6 1803",
+          "stops": 0,
+          "totalDuration": 227,
+          "departureTime": "2027-01-04 05:01",
+          "arrivalTime": "2027-01-04 09:48"
         },
         {
-          "price": 1124,
-          "airline": "American",
-          "flightNumbers": "AA 4397, AA 1249, AA 1908",
-          "stops": 2,
-          "totalDuration": 1020,
-          "departureTime": "2027-01-04 20:00",
-          "arrivalTime": "2027-01-05 14:00"
-        },
-        {
-          "price": 1160,
+          "price": 909,
           "airline": "Delta",
           "flightNumbers": "DL 1877",
           "stops": 0,
@@ -168,22 +159,31 @@
           "arrivalTime": "2027-01-04 13:05"
         },
         {
-          "price": 1226,
-          "airline": "Delta",
-          "flightNumbers": "DL 1961",
+          "price": 909,
+          "airline": "JetBlue",
+          "flightNumbers": "B6 403",
           "stops": 0,
-          "totalDuration": 230,
-          "departureTime": "2027-01-04 12:00",
-          "arrivalTime": "2027-01-04 16:50"
+          "totalDuration": 237,
+          "departureTime": "2027-01-04 20:30",
+          "arrivalTime": "2027-01-05 01:27"
         },
         {
-          "price": 1246,
-          "airline": "American",
-          "flightNumbers": "AA 1444, AA 2150",
-          "stops": 1,
-          "totalDuration": 402,
-          "departureTime": "2027-01-04 07:59",
-          "arrivalTime": "2027-01-04 15:41"
+          "price": 909,
+          "airline": "JetBlue",
+          "flightNumbers": "B6 803",
+          "stops": 0,
+          "totalDuration": 239,
+          "departureTime": "2027-01-04 21:30",
+          "arrivalTime": "2027-01-05 02:29"
+        },
+        {
+          "price": 909,
+          "airline": "JetBlue",
+          "flightNumbers": "B6 703",
+          "stops": 0,
+          "totalDuration": 238,
+          "departureTime": "2027-01-04 17:31",
+          "arrivalTime": "2027-01-04 22:29"
         }
       ]
     },
@@ -193,10 +193,10 @@
       "outboundDate": "2027-03-07",
       "returnDate": "2027-03-12",
       "currency": "USD",
-      "capturedAt": "2026-09-12T01:17:00.020Z",
+      "capturedAt": "2026-09-13T01:12:50.527Z",
       "lowestPrice": 940,
-      "avgPrice": 1273,
-      "medianPrice": 1210,
+      "avgPrice": 1215.1,
+      "medianPrice": 1147,
       "nOffers": 10,
       "priceLevel": "high",
       "typicalLow": 600,
@@ -223,15 +223,6 @@
         {
           "price": 1002,
           "airline": "Avianca",
-          "flightNumbers": "AV 245, AV 128",
-          "stops": 1,
-          "totalDuration": 620,
-          "departureTime": "2027-03-07 00:15",
-          "arrivalTime": "2027-03-07 11:35"
-        },
-        {
-          "price": 1002,
-          "airline": "Avianca",
           "flightNumbers": "AV 21, AV 136",
           "stops": 1,
           "totalDuration": 590,
@@ -239,7 +230,16 @@
           "arrivalTime": "2027-03-07 17:20"
         },
         {
-          "price": 1210,
+          "price": 1032,
+          "airline": "JetBlue",
+          "flightNumbers": "B6 183, B6 1777",
+          "stops": 1,
+          "totalDuration": 492,
+          "departureTime": "2027-03-07 08:00",
+          "arrivalTime": "2027-03-07 17:12"
+        },
+        {
+          "price": 1147,
           "airline": "JetBlue",
           "flightNumbers": "B6 1169",
           "stops": 0,
@@ -255,11 +255,11 @@
       "outboundDate": "2027-03-07",
       "returnDate": "2027-03-12",
       "currency": "USD",
-      "capturedAt": "2026-09-12T01:16:59.753Z",
+      "capturedAt": "2026-09-13T01:12:49.366Z",
       "lowestPrice": 1137,
-      "avgPrice": 1619.75,
-      "medianPrice": 1664,
-      "nOffers": 8,
+      "avgPrice": 1521.89,
+      "medianPrice": 1384,
+      "nOffers": 9,
       "priceLevel": "high",
       "typicalLow": 710,
       "typicalHigh": 930,
@@ -274,6 +274,15 @@
           "arrivalTime": "2027-03-08 11:53"
         },
         {
+          "price": 1237,
+          "airline": "COPA",
+          "flightNumbers": "CM 705, CM 682",
+          "stops": 1,
+          "totalDuration": 1092,
+          "departureTime": "2027-03-07 14:46",
+          "arrivalTime": "2027-03-08 09:58"
+        },
+        {
           "price": 1260,
           "airline": "Avianca",
           "flightNumbers": "AV 445, AV 365, AV 128",
@@ -283,31 +292,22 @@
           "arrivalTime": "2027-03-08 11:35"
         },
         {
-          "price": 1289,
-          "airline": "COPA",
-          "flightNumbers": "CM 705, CM 678",
+          "price": 1384,
+          "airline": "Air Canada",
+          "flightNumbers": "AC 8603, AC 1424",
           "stops": 1,
-          "totalDuration": 1062,
-          "departureTime": "2027-03-07 14:46",
-          "arrivalTime": "2027-03-08 09:28"
+          "totalDuration": 435,
+          "departureTime": "2027-03-07 05:30",
+          "arrivalTime": "2027-03-07 13:45"
         },
         {
-          "price": 1514,
-          "airline": "JetBlue",
-          "flightNumbers": "B6 1617, B6 1169",
+          "price": 1384,
+          "airline": "Air Canada",
+          "flightNumbers": "AC 8605, AC 1790",
           "stops": 1,
-          "totalDuration": 430,
-          "departureTime": "2027-03-07 08:15",
-          "arrivalTime": "2027-03-07 16:25"
-        },
-        {
-          "price": 1814,
-          "airline": "JetBlue",
-          "flightNumbers": "B6 1595",
-          "stops": 0,
-          "totalDuration": 250,
-          "departureTime": "2027-03-07 08:40",
-          "arrivalTime": "2027-03-07 13:50"
+          "totalDuration": 455,
+          "departureTime": "2027-03-07 10:25",
+          "arrivalTime": "2027-03-07 19:00"
         }
       ]
     },
@@ -317,17 +317,17 @@
       "outboundDate": "2027-03-07",
       "returnDate": "2027-03-12",
       "currency": "USD",
-      "capturedAt": "2026-09-12T01:17:00.155Z",
-      "lowestPrice": 1009,
-      "avgPrice": 2001.21,
-      "medianPrice": 1579.5,
+      "capturedAt": "2026-09-13T01:12:48.760Z",
+      "lowestPrice": 969,
+      "avgPrice": 2176.36,
+      "medianPrice": 1773,
       "nOffers": 14,
       "priceLevel": "typical",
       "typicalLow": 640,
       "typicalHigh": 1200,
       "offers": [
         {
-          "price": 1009,
+          "price": 969,
           "airline": "American",
           "flightNumbers": "AA 5438, AA 1232, AA 3101",
           "stops": 2,
@@ -336,7 +336,7 @@
           "arrivalTime": "2027-03-08 14:06"
         },
         {
-          "price": 1301,
+          "price": 1133,
           "airline": "American",
           "flightNumbers": "AA 3737, AA 2256",
           "stops": 1,
@@ -345,7 +345,7 @@
           "arrivalTime": "2027-03-08 14:41"
         },
         {
-          "price": 1425,
+          "price": 1261,
           "airline": "American",
           "flightNumbers": "AA 3143, AA 2641",
           "stops": 1,
@@ -354,22 +354,22 @@
           "arrivalTime": "2027-03-07 13:07"
         },
         {
-          "price": 1478,
-          "airline": "JetBlue",
-          "flightNumbers": "B6 2875, B6 1777",
+          "price": 1481,
+          "airline": "American",
+          "flightNumbers": "AA 865, AA 2613",
           "stops": 1,
-          "totalDuration": 492,
-          "departureTime": "2027-03-07 08:00",
-          "arrivalTime": "2027-03-07 17:12"
+          "totalDuration": 515,
+          "departureTime": "2027-03-07 06:47",
+          "arrivalTime": "2027-03-07 16:22"
         },
         {
-          "price": 1488,
-          "airline": "JetBlue",
-          "flightNumbers": "B6 1129, B6 1169",
+          "price": 1492,
+          "airline": "United",
+          "flightNumbers": "UA 5826, UA 1270",
           "stops": 1,
-          "totalDuration": 565,
-          "departureTime": "2027-03-07 06:00",
-          "arrivalTime": "2027-03-07 16:25"
+          "totalDuration": 1652,
+          "departureTime": "2027-03-07 09:50",
+          "arrivalTime": "2027-03-08 14:22"
         }
       ]
     }
